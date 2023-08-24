@@ -52,7 +52,7 @@ onMounted(() => {
 
     <section class="greeting">
       <h2 class="title">
-        E aí, <input type="text" v-model="name" placeholder="Nome aqui" />
+        E aí, <input type="text" v-model="name" placeholder="Insira seu nome aqui" />
       </h2>
 
     </section>
