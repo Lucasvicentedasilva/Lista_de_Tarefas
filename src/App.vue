@@ -85,7 +85,7 @@ onMounted(() => {
     value="personal"
     v-model="input_category" />
     <span class="bubble personal"></span>
-    <div>Trabalho</div>
+    <div>Pessoal</div>
     </label>
 
     </div>
